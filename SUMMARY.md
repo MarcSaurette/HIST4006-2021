@@ -1,0 +1,48 @@
+# Table of contents
+
+* [HIST 4006 - Fall/Winter 2021](README.md)
+* [How to join the class](login.md)
+
+## Syllabus
+
+* [Your Professor, Marc](syllabus/untitled.md)
+* [Schedule](syllabus/schedule.md)
+* [Key Dates](syllabus/key-dates.md)
+* [Class Details](syllabus/classwork/README.md)
+  * [Learning Outcomes](syllabus/classwork/untitled.md)
+  * [Pandemic Learning](syllabus/classwork/untitled-3/README.md)
+    * [Learning as a Mental Exercise](syllabus/classwork/untitled-3/learning-as-a-mental-exercise.md)
+  * [Communication](syllabus/classwork/untitled-1.md)
+  * [Participation](syllabus/classwork/participation/README.md)
+    * [Participation Rubric](syllabus/classwork/participation/participation-rubric.md)
+  * [Class Work](syllabus/classwork/class-work/README.md)
+    * [Research](syllabus/classwork/class-work/research-project.md)
+    * [Exhibition](syllabus/classwork/class-work/exhibition.md)
+  * [Assessment](syllabus/classwork/assessment/README.md)
+    * [Why no grades?](syllabus/classwork/assessment/why-no-grades.md)
+    * [Process Letters](syllabus/classwork/assessment/process-letter.md)
+  * [Deadlines](syllabus/classwork/untitled-2.md)
+* [Digital Tools](syllabus/digital-tools/README.md)
+  * [Teams](syllabus/digital-tools/teams.md)
+  * [Perusall](syllabus/digital-tools/perusall.md)
+  * [Hypothes.is](syllabus/digital-tools/untitled.md)
+* [Exercises Term I](syllabus/exercises/README.md)
+  * [HCommons Profile](syllabus/exercises/hcommons-profile.md)
+  * [Book Dissection](syllabus/exercises/book-dissection.md)
+  * [Reading a Manuscript Catalogue](syllabus/exercises/reading-a-manuscript-catalogue.md)
+  * [Folio Measurements](syllabus/exercises/folio-measurements.md)
+  * [Ruling](syllabus/exercises/pricking-and-ruling.md)
+  * [Transcription](syllabus/exercises/transcription.md)
+  * [Quill Making and Trials](syllabus/exercises/quill-making.md)
+  * [Trialing Bookhands](syllabus/exercises/trialing-bookhands.md)
+  * [Installing Medieval Unicode](syllabus/exercises/installing-medieval-unicode.md)
+  * [Rubrication and Decoration](syllabus/exercises/illustrations.md)
+  * [Binding](syllabus/exercises/binding.md)
+  * [Cataloguing](syllabus/exercises/cataloguing.md)
+  * [Typesetting](syllabus/exercises/typesetting.md)
+* [Exercises Term II](syllabus/exercises-term-ii/README.md)
+  * [Setting up new digital resources](syllabus/exercises-term-ii/setting-up-new-digital-resources.md)
+
+## Fundamentals
+
+* [Terminology](fundamentals/terminology.md)
