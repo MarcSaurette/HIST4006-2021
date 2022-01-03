@@ -1,6 +1,6 @@
 # Folio workshops
 
-In the first half of the Winter semester, we will spend part of each class workshopping each other's catalogue entries. This workshop is meant to practice the collaborative work of putting together a scholarly resource like a manuscript catalogue.
+In the first half of the Winter semester, we will spend part of each class workshopping each other's catalogue entries. This workshop is meant to practice the collaborative work of putting together a scholarly resource like a manuscript catalogue. These will also allow us to explore areas of research (i.e. interest driven learning).&#x20;
 
 1. The week before we discuss a catalogue entry, the author should indicate via a post on Teams what things they might wish help with. What would they like to learn more about (or what do they think others might learn from it)? Do they need further help with transcription? Do you want to learn more about Southern Textualis?&#x20;
 2. In advance of each class, we will all read through the catalogue entries assigned  that week (usually two or three). In the google documents, we will offer peer-editing suggestions or make comments designed to improve the catalogue entry (including links or bibliographical suggestions for further research). Students can also discuss stylistic matters - e.g. how to standardize the entries or common terminology to use (etc.)
@@ -13,7 +13,7 @@ We will be talking about your catalogue descriptions on the date noted. This mea
 
 | Date          | Author 1 | Author 2 |
 | ------------- | -------- | -------- |
-| January 20th  | Riley    | Kiera    |
+| January 20th  | Riley    | Keira    |
 | January 27th  | Nigel    | Kealey   |
 | February 3rd  | David    | Darius   |
 | February 10th | Natasha  | Laura    |
