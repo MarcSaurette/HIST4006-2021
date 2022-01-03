@@ -1,5 +1,78 @@
 # Schedule
 
+## Winter Term
+
+### Part III -  Digital Manuscripts
+
+For the first part of Winter term, we will turn our focus to digital texts and how medieval manuscripts and texts can be represented in digital spaces. &#x20;
+
+Our classes will be divided between discussing the materials to be consulted below (guiding questions will be posted by myself as we go) and workshopping students' catalogue entries.
+
+#### January 13 -Connecting with Digital Manuscripts
+
+![](<../.gitbook/assets/05 Nailed it (2).png>) ![](<../.gitbook/assets/04 No pants zoom meeting (1).png>)
+
+_Listen to/ View:_
+
+* [Coding Codicology. Episode 1. ](https://podcast.digitalmedievalist.org/episode-1-sexy-codicology/)_Coding Codicology_ can also be accessed on a number of other podcast platforms of your choice. (2021)
+* Rianne Koning, Robert Krom, Ilse Rombout and Kees Teszelszky - [Medieval Memes Generator](https://youtu.be/0OcjfPbD3k4) (Youtube talk, 2021)
+
+_Consult/ experiment with/ analyze:_
+
+* [https://twitter.com/sexycodicology](https://twitter.com/sexycodicology)
+* [https://blog.digitizedmedievalmanuscripts.org/codicology/videos/](https://blog.digitizedmedievalmanuscripts.org/codicology/videos/)
+* [https://digitizedmedievalmanuscripts.org](https://digitizedmedievalmanuscripts.org)
+* [https://www.medievalmemes.org](https://www.medievalmemes.org)
+* [https://digital-scriptorium.org](https://digital-scriptorium.org) OR [https://www.europeana.eu/en](https://www.europeana.eu/en)
+
+For discussion/ contemplation:
+
+
+
+#### January 20 -&#x20;
+
+#### January 27 -&#x20;
+
+#### February 3 - Text Encoding I
+
+* Digital editions seek to reproduce the content of medieval manuscripts but have more flexibility in how it is displayed. Traditionally, editions have been limited by the availability of type. In the fifteenth and sixteenth century, traditional letter forms in English (thorn \[ **þ**], eth \[**ð**], yogh \[**ȝ**]) , for example, were lost because Swiss, German and French type makers did not use them. But digital typography allows us to more closely mirror the appearance of medieval texts if we wish.&#x20;
+* In this class, we will experiment with Medieval Unicode Fonts to get you used to using medieval character forms, abbreviations etc.&#x20;
+
+#### February 10 - Text Encoding II
+
+* Digital editions have greater flexibility because digital files (unlike print) have ways to distinguish the visible text and the underlying code.
+* In this class, we will work on establishing a draft XML file of a short transcription of a Carleton manuscript fragment
+
+#### February 17 - Capturing Manuscripts
+
+* How do we digitize? Usually this means making an image, but what are the best (and safest) ways to get an image of a medieval manuscript (or any document, frankly). This week's readings try to give us a sense of how to image documents.
+
+{% hint style="info" %}
+[Announcement](https://twitter.com/PonteIneptique/status/1435163187494727680?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1435163187494727680%7Ctwgr%5E%7Ctwcon%5Es1\_\&ref\_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FPonteIneptique2Fstatus2F1435163187494727680widget%3DTweet) of AI colorization of B\&W microfilm
+{% endhint %}
+
+#### February 24 - Reading Week&#x20;
+
+No classes.
+
+#### March 3 - Presenting Manuscripts (IIIF)
+
+* In this class, we will look at different ways in which manuscripts are presented digitally. From early examples (via the Internet Archives' _Way Back Machine)_ to current standards in presentation.&#x20;
+
+#### March 10 - Group Work&#x20;
+
+#### March 17 - Group Work
+
+#### March 24 - Group Work
+
+#### March 31 - Group Work
+
+* For these four weeks, we will be working together to brainstorm, develop and produce an 'exhibition' of our medieval folios and/or our copies/transformations of them into print, manuscript and digital versions.&#x20;
+
+#### April 7 - Finale - Exhibition Launch
+
+* In this class, we will celebrate the end of term and the launch of our class exhibition (online or physical, or maybe both).&#x20;
+
 ## Fall Term
 
 The schedule is in some ways provisional. The first term schedule is set and then second term can be adjusted depending on student interests and what has garnered the most interest in the first term.&#x20;
@@ -115,59 +188,7 @@ Class might start a little bit late in order to allow students to attend the cam
 
 * Student presentations on medieval folios.
 
-## Winter Term
-
-### Part III -  Manuscripts Transformed
-
-#### January 13 - Digitizing Manuscripts
-
-*
-
-#### January 20 -&#x20;
-
-#### January 27 -&#x20;
-
-#### February 3 - Text Encoding I
-
-* Digital editions seek to reproduce the content of medieval manuscripts but have more flexibility in how it is displayed. Traditionally, editions have been limited by the availability of type. In the fifteenth and sixteenth century, traditional letter forms in English (thorn \[ **þ**], eth \[**ð**], yogh \[**ȝ**]) , for example, were lost because Swiss, German and French type makers did not use them. But digital typography allows us to more closely mirror the appearance of medieval texts if we wish.&#x20;
-* In this class, we will experiment with Medieval Unicode Fonts to get you used to using medieval character forms, abbreviations etc.&#x20;
-
-#### February 10 - Text Encoding II
-
-* Digital editions have greater flexibility because digital files (unlike print) have ways to distinguish the visible text and the underlying code.
-* In this class, we will work on establishing a draft XML file of a short transcription of a Carleton manuscript fragment
-
-#### February 17 - Capturing Manuscripts
-
-* How do we digitize? Usually this means making an image, but what are the best (and safest) ways to get an image of a medieval manuscript (or any document, frankly). This week's readings try to give us a sense of how to image documents.
-
-{% hint style="info" %}
-[Announcement](https://twitter.com/PonteIneptique/status/1435163187494727680?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1435163187494727680%7Ctwgr%5E%7Ctwcon%5Es1\_\&ref\_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FPonteIneptique2Fstatus2F1435163187494727680widget%3DTweet) of AI colorization of B\&W microfilm
-{% endhint %}
-
-#### February 24 - Reading Week&#x20;
-
-No classes.
-
-#### March 3 - Presenting Manuscripts (IIIF)
-
-* In this class, we will look at different ways in which manuscripts are presented digitally. From early examples (via the Internet Archives' _Way Back Machine)_ to current standards in presentation.&#x20;
-
-#### March 10 - Group Work&#x20;
-
-#### March 17 - Group Work
-
-#### March 24 - Group Work
-
-#### March 31 - Group Work
-
-* For these four weeks, we will be working together to brainstorm, develop and produce an 'exhibition' of our medieval folios and/or our copies/transformations of them into print, manuscript and digital versions.&#x20;
-
-#### April 7 - Finale - Exhibition Launch
-
-* In this class, we will celebrate the end of term and the launch of our class exhibition (online or physical, or maybe both).&#x20;
-
-
+##
 
 ### Lost to reboot:
 
