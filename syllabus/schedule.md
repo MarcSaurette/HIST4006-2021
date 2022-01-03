@@ -14,7 +14,7 @@ Our classes will be divided between discussing the materials to be consulted bel
 
 _Listen to/ View:_
 
-* [Coding Codicology. Episode 1. ](https://podcast.digitalmedievalist.org/episode-1-sexy-codicology/)_Coding Codicology_ can also be accessed on a number of other podcast platforms of your choice. We'll be listening to a few episodes this term, so you might want to subscribe (2021)
+* [Coding Codices. Episode 1.](https://podcast.digitalmedievalist.org/episode-1-sexy-codicology/) _Coding Codicology_ can also be accessed on a number of other podcast platforms of your choice. We'll be listening to a few episodes this term, so you might want to subscribe (2021)
 * Rianne Koning, Robert Krom, Ilse Rombout and Kees Teszelszky - Presentation on the [Medieval Memes Generator](https://youtu.be/0OcjfPbD3k4) (Youtube, 2021)
 
 _Consult/ experiment with/ analyze:_
@@ -27,23 +27,77 @@ _Consult/ experiment with/ analyze:_
 
 _For discussion/ contemplation:_
 
-This week, we a
+This week, we will seek to understand how people interact with digital manuscripts. From the simple _Medieval Meme Generator_ to the more academic online consolidators of the _Digital Scriptorium_ or _Europeana_, I want you to think about how people with different levels of expertise/ interest interact and use digitized medieval manuscripts differently. Both the podcast and the recorded presentation highlight the explicit interest of 'experts' to connect with a more diverse audience than typical (i.e. not just medievalists). By looking at the above resources, I want us to consider how the u_ser interface_ (UI, i.e. how you connect with and view a manuscript) changes how you experience/ think of it.&#x20;
+
+Come ready to discuss:
+
+* How do _Sexy Codicology_ and the _Dutch National Library_ seek to accomplish outreach? Do you think they are successful? What could they do better?&#x20;
+* How do they define their success? What did they want to accomplish?
+* The interview with _Sexy Codicology_ highlights a progressive shift in their goals from being populist then more scholarly (e.g. from using social media to creating web resources to consolidate digitized libraries). Try out the [DMMap](https://digitizedmedievalmanuscripts.org).&#x20;
+  * What is the User Interface like?
+  * How does it change how you think about manuscripts whether reading the Sexy Codicology blog/ twitter account or looking at the DMMap site.&#x20;
+* Try out the _Digital Scriptorium_ or the _Europeana_ sites. Like DMMap, they consolidate information held in other digital repositories. The _Digital Scriptorium_ is medieval in content, whereas _Europeana_ is much broader in its content.&#x20;
+  * Find a medieval manuscript using one of these two resources. Tell us how you found it and how its UI encourages you to look for manuscripts in certain ways. Be able to talk about at least one manuscript that you found and why it is notable (at least, to you).&#x20;
 
 _To do:_&#x20;
 
-__
+* make a medieval meme (using the generator) and post it to Teams before class
+* find a digitized medieval manuscript to introduce to the class (you will be given 2 minutes to introduce your manuscript to everyone else and tell us how you found it/ why you want to draw attention to it).
 
-#### January 20 -&#x20;
+#### January 20 - Understanding Digital Manuscripts
 
 _Folio Workshop:_
 
 We will be reviewing and researching, [Riley](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit#heading=h.jat72ua4d1hx) and [Keira's](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit#heading=h.hb3dp0cgcsmi) catalogue entries.&#x20;
 
-* In advance of class, Riley and Keira will suggest areas of potential research - i.e. areas that need further research, explanation and support of their&#x20;
+* In advance of class, Riley and Keira will suggest areas of potential research - i.e. areas that need further research, explanation and support
 
-#### January 27 -&#x20;
+_Listen to/ View:_
 
-#### February 3 - Text Encoding I
+* [Coding Codices. Ep. 7](https://podcast.digitalmedievalist.org/episode-7-facsimile-narratives/). Mateusz Fafinski discusses his work on the theory of digital humanities.
+* [Coding Codices. Ep. 8](https://podcast.digitalmedievalist.org/episode-8-material-manuscripts-in-a-digital-world/). Dr. Johanna Green speaks about manuscript materiality, digitization projects, and increased access to physical objects.
+* Maia Sheridan/Eddie Martin/Erica Kotze.  [A conversation about digitising mediaeval manuscripts](https://youtu.be/TL0YonsTtxM). (2021)
+* University of St Andrews, [ms BR65 .A9](https://collections.st-andrews.ac.uk/item/st-augustine-of-hippo-opera/762337): _Collected works of Augustine of Hippo_
+
+{% file src="../.gitbook/assets/Fafinski - Facsimile narratives Researching the past in the age of digital reproduction.pdf" %}
+
+_For discussion/ contemplation:_
+
+This week, we want to revisit our early discussion (last term) about the nature of digitized manuscripts. What is a "digitized" manuscript? And how does the idea of digital facsimile's limit what manuscripts can tell us? Or how do digital manuscript facsimiles allow us to do new things?
+
+In class, we will navigate through the manuscript [ms BR65 .A9](https://collections.st-andrews.ac.uk/item/st-augustine-of-hippo-opera/762337) at the University of Saint Andrews (Scotland) in its present digital interface, but take time to explore the manuscript beforehand.&#x20;
+
+Come to class ready to discuss:&#x20;
+
+* What is Fafinski's idea of the _digital facsimile?_ How does he present it differently on the podcast and in his article? Does one help understand the other?&#x20;
+* How does Green argue that a manuscripts materiality suggests the limitations of digitization?
+* How does the manuscript appear differently when put on video and when viewed on the St. Andrew's website?
+* How much can you interact with the manuscript on the website? Or are you limited to passive viewing? What kind of information do they offer to enhance your experience?
+
+#### January 27 - New Approaches in Digitizing Medieval Manuscripts
+
+_Folio Workshop_
+
+
+
+_Listen to/ View:_&#x20;
+
+* [Suzette van Haaren - The Bury Bible in a different light](https://youtu.be/cKScVAqX9x0)
+* [Bill Endres, Welcome to the Golden Age of Digitization: An Ode to a New Entry, Virtual Reality](https://youtu.be/rmzcGHRzzYM)
+* [Maciej Pawlikowski - Evolution of the digitisation labs](https://youtu.be/HohW5p7qK\_Y)
+* [Astrid Smith - Digitization ellipses](https://youtu.be/J0sx32YOYxw)
+
+_For discussion/ contemplation:_
+
+
+
+#### February 3 - Digital Archives, Repositories and Exhibitions
+
+####
+
+####
+
+#### Text Encoding I
 
 * Digital editions seek to reproduce the content of medieval manuscripts but have more flexibility in how it is displayed. Traditionally, editions have been limited by the availability of type. In the fifteenth and sixteenth century, traditional letter forms in English (thorn \[ **þ**], eth \[**ð**], yogh \[**ȝ**]) , for example, were lost because Swiss, German and French type makers did not use them. But digital typography allows us to more closely mirror the appearance of medieval texts if we wish.&#x20;
 * In this class, we will experiment with Medieval Unicode Fonts to get you used to using medieval character forms, abbreviations etc.&#x20;
