@@ -7,6 +7,20 @@ In the first half of the Winter semester, we will spend part of each class works
 3. Every student in class (other than those whose entries are assigned) will choose one aspect (of the many possibiilities) to do further research on. This research will then inform our comments during the workshop about what we all were helping to add to our understanding of each folio.&#x20;
 4. These suggestions and research will be used by the original authors to revise their catalogue entries, which will be **due two weeks** after we workshop the folio.&#x20;
 
+### Specialized Areas of Expertise:
+
+Students will choose to focus on specific codicological topics over the course of the seven weeks of the workshop. Students will become the expert commentator in workshops on their field of expertise.  Potential areas of focus could be (but are not limited to):
+
+* ornamentation and decoration
+* marginalia (this might be hard due to lack of marginalia generally)
+* rubrication
+* initials
+* palaeography (or perhaps only specific letters)
+* supports
+* mise-en-page
+
+In the final part of the course, students will write up an overarching examination of their chosen area for the catalogue. Thus, we will have someone (or perhaps more than one person) providing an overview of the scripts (and their timeline) that our collection demonstrates.&#x20;
+
 ### Workshop Schedule
 
 We will be talking about your catalogue descriptions on the date noted. This means noting areas of discussion/ research should be posted a week beforehand.&#x20;

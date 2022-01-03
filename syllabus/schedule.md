@@ -14,8 +14,8 @@ Our classes will be divided between discussing the materials to be consulted bel
 
 _Listen to/ View:_
 
-* [Coding Codicology. Episode 1. ](https://podcast.digitalmedievalist.org/episode-1-sexy-codicology/)_Coding Codicology_ can also be accessed on a number of other podcast platforms of your choice. (2021)
-* Rianne Koning, Robert Krom, Ilse Rombout and Kees Teszelszky - [Medieval Memes Generator](https://youtu.be/0OcjfPbD3k4) (Youtube talk, 2021)
+* [Coding Codicology. Episode 1. ](https://podcast.digitalmedievalist.org/episode-1-sexy-codicology/)_Coding Codicology_ can also be accessed on a number of other podcast platforms of your choice. We'll be listening to a few episodes this term, so you might want to subscribe (2021)
+* Rianne Koning, Robert Krom, Ilse Rombout and Kees Teszelszky - Presentation on the [Medieval Memes Generator](https://youtu.be/0OcjfPbD3k4) (Youtube, 2021)
 
 _Consult/ experiment with/ analyze:_
 
@@ -25,11 +25,21 @@ _Consult/ experiment with/ analyze:_
 * [https://www.medievalmemes.org](https://www.medievalmemes.org)
 * [https://digital-scriptorium.org](https://digital-scriptorium.org) OR [https://www.europeana.eu/en](https://www.europeana.eu/en)
 
-For discussion/ contemplation:
+_For discussion/ contemplation:_
 
+This week, we a
 
+_To do:_&#x20;
+
+__
 
 #### January 20 -&#x20;
+
+_Folio Workshop:_
+
+We will be reviewing and researching, [Riley](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit#heading=h.jat72ua4d1hx) and [Keira's](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit#heading=h.hb3dp0cgcsmi) catalogue entries.&#x20;
+
+* In advance of class, Riley and Keira will suggest areas of potential research - i.e. areas that need further research, explanation and support of their&#x20;
 
 #### January 27 -&#x20;
 

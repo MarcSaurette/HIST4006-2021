@@ -18,6 +18,7 @@
   * [Class Work](syllabus/classwork/class-work/README.md)
     * [Research](syllabus/classwork/class-work/research-project/README.md)
       * [Folio workshops](syllabus/classwork/class-work/research-project/folio-workshops.md)
+      * [Subject Overview](syllabus/classwork/class-work/research-project/subject-overview.md)
     * [Exhibition](syllabus/classwork/class-work/exhibition.md)
   * [Assessment](syllabus/classwork/assessment/README.md)
     * [Why no grades?](syllabus/classwork/assessment/why-no-grades.md)
@@ -43,6 +44,7 @@
   * [Typesetting](syllabus/exercises/typesetting.md)
 * [Exercises Term II](syllabus/exercises-term-ii/README.md)
   * [Setting up new digital resources](syllabus/exercises-term-ii/setting-up-new-digital-resources.md)
+  * [Using Knightlabs Timeline](syllabus/exercises-term-ii/using-knightlabs-timeline.md)
 
 ## Fundamentals
 
