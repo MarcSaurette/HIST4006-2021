@@ -44,6 +44,10 @@ _To do:_&#x20;
 * make a medieval meme (using the generator) and post it to Teams before class
 * find a digitized medieval manuscript to introduce to the class (you will be given 2 minutes to introduce your manuscript to everyone else and tell us how you found it/ why you want to draw attention to it).
 
+_Exhibition Brainstorming_:
+
+* If we were to put together an exhibition&#x20;
+
 #### January 20 - Understanding Digital Manuscripts
 
 _Folio Workshop:_
@@ -80,6 +84,10 @@ _Folio Workshop_
 
 We will be reviewing [Nigel](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit#heading=h.71kokp9d2mdi) and [Kealey's](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit#heading=h.sumgnav2pjjw) catalogue entries.&#x20;
 
+_Read_:
+
+* "Why Do We Digitize? The Case for Slow Digitization," Andrew Prescott, Lorna Hughes, [_Archives Journal_](http://www.archivejournal.net/essays/why-do-we-digitize-the-case-for-slow-digitization/) __ September 2018
+
 _Listen to/ View:_&#x20;
 
 * [Suzette van Haaren - The Bury Bible in a different light](https://youtu.be/cKScVAqX9x0)
@@ -87,9 +95,17 @@ _Listen to/ View:_&#x20;
 * [Bill Endres, Welcome to the Golden Age of Digitization: An Ode to a New Entry, Virtual Reality](https://youtu.be/rmzcGHRzzYM)
 * [Astrid Smith - Digitization ellipses](https://youtu.be/J0sx32YOYxw)
 
+{% hint style="info" %}
+[Announcement](https://twitter.com/PonteIneptique/status/1435163187494727680?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1435163187494727680%7Ctwgr%5E%7Ctwcon%5Es1\_\&ref\_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FPonteIneptique2Fstatus2F1435163187494727680widget%3DTweet) of AI colorization of B\&W microfilm. Prepublication of study [here](https://hal.archives-ouvertes.fr/hal-03335326/document):&#x20;
+{% endhint %}
+
+_Explore:_
+
+* Sketchfab 3D models, repository, [Musée de Cluny](https://sketchfab.com/francecollections/collections/musee-de-cluny) (Museum of the Middle Ages).
+
 _For discussion/ contemplation:_
 
-Van Haaren and Pawlikoski provide us with an overview of what are current standard practices of digitization studios. Endres suggests pathways for future development. And Smith suggests what is not captured by digitization. After watching these four presentations (and previously viewed materials), come ready to talk about the past, present and future of digitization.&#x20;
+Van Haaren and Pawlikoski provide us with an overview of what are current standard practices of digitization studios. Endres suggests pathways for future development. And Smith suggests what is not captured by digitization. Thibault Clérice and Ariane Pinche suggest how machine learning might assist our efforts to reconstruct lost manuscripts (through AI assisted colorization). After watching these presentations and article (and previously viewed materials), come ready to talk about the past, present and future of digitization.&#x20;
 
 In particular consider:
 
@@ -100,16 +116,19 @@ In particular consider:
 
 Be ready to talk about:
 
-* one thing that surprised you about the discussions
+* one thing that surprised you about the processes or technologies of digitization
 * one thing that reinforced what you already were thinking about digitical facsimiles
+* what are the limitations on digitization efforts
 
-#### February 3 - Digital Archives, Repositories and Exhibitions
+#### February 3 - Digital Preservation and Repositories
 
-This week we tackle the thorny issue of&#x20;
+This week we tackle the thorny issue of storing and showcasing medieval manuscripts. We can dream that access to medieval manuscripts could be solved by "digitizing everything" and putting it up on the web - but there are limits. Digitization takes time, resources and storage; like other materials, digital data degrades over time (bit rot), data standards change (new software upgrades might not be backwards compatible) as does technology (CDs or 3.25" disks are difficult to consult even if the data on them are perfectly preserved). And as the number of digital facsimiles increase (as does the associated data), how can easy access be preserved?
+
+
 
 _Listen to/ View:_
 
-*
+* Coding Codices. Ep. 6.&#x20;
 
 _To do:_&#x20;
 
@@ -128,10 +147,6 @@ By the end of discussion, we should&#x20;
 #### February 17 - Capturing Manuscripts
 
 * How do we digitize? Usually this means making an image, but what are the best (and safest) ways to get an image of a medieval manuscript (or any document, frankly). This week's readings try to give us a sense of how to image documents.
-
-{% hint style="info" %}
-[Announcement](https://twitter.com/PonteIneptique/status/1435163187494727680?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1435163187494727680%7Ctwgr%5E%7Ctwcon%5Es1\_\&ref\_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FPonteIneptique2Fstatus2F1435163187494727680widget%3DTweet) of AI colorization of B\&W microfilm
-{% endhint %}
 
 #### February 24 - Reading Week&#x20;
 

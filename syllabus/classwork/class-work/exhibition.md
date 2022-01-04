@@ -11,3 +11,5 @@ Our exhibition can showcase all or some of the following:
 
 Depending on how we jointly decide to proceed, we will establish different teams working on different aspects of the exhibition.&#x20;
 
+Over the course of the second term, we will brainstorm different components for a project proposal (i.e. the plan/ justification for an exhibition), which we will draft in an online [google document](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit?usp=sharing). It may end up being the end goal, or this might form the basis of an exhibition we develop with CUAG or MacOdrum library. &#x20;
+
