@@ -46,6 +46,11 @@ _To do:_&#x20;
 
 _Exhibition Brainstorming_:
 
+* We establish different work groups for our revision of the manuscript catalogue this term.&#x20;
+  * editorial
+  * palaeographical
+  * art historical
+  * codicological
 * If we were to put together an exhibition, how would we want to engage with the public? What do you think might be the differences between a digital exhibition and a physical one?&#x20;
 
 #### January 20 - Understanding Digital Manuscripts
@@ -132,9 +137,17 @@ _Exhibition Brainstorming_
 
 This week we tackle the thorny issue of storing and showcasing medieval manuscripts. We can dream that access to medieval manuscripts could be solved by "digitizing everything" and putting it up on the web - but there are limits. Digitization takes time, resources and storage; like other materials, digital data degrades over time (bit rot), data standards change (new software upgrades might not be backwards compatible) as does technology (CDs or 3.25" disks are difficult to consult even if the data on them are perfectly preserved). And as the number of digital facsimiles increase (as does the associated data), how can easy access be preserved?
 
+_Folio Workshop_
+
+We will be reviewin_g X_ and Y's catalogue entries.&#x20;
+
 _Listen to/ View:_
 
 * Coding Codices. Ep. 6.&#x20;
+
+_For discussion/ contemplation:_
+
+*
 
 _Exhibition Brainstorming_
 
@@ -142,13 +155,23 @@ By the end of our discussion, we should think through ways to ensure the preserv
 
 #### February 10 - Digital Manuscript Exhibitions
 
-_Listen to/View:_
+
+
+_Folio Workshop_
+
+We will be reviewin_g X_ and Y's catalogue entries.&#x20;
+
+_Listen to/ View:_
+
+* &#x20;
+
+_For discussion/ contemplation:_
 
 *
 
 _Exhibition Brainstorming_
 
-By the end of our discussion, we think about the basic format of our proposed exhibition.
+By the end of our discussion, we will decide on the basic format of our proposed exhibition.
 
 #### February 17th - Text Encoding I
 
@@ -164,9 +187,17 @@ By the end of our discussion, we think about the basic format of our proposed ex
 
 No classes.
 
-#### March 3 - Presenting Manuscripts (IIIF)
+#### March 3 - Completing the Catalogue
 
-* In this class, we will look at different ways in which manuscripts are presented digitally. From early examples (via the Internet Archives' _Way Back Machine)_ to current standards in presentation.&#x20;
+This day will be a final&#x20;
+
+_Folio Workshop_
+
+We will be reviewin_g Carol, Nicholas and Josh's_ catalogue entries.&#x20;
+
+_To do:_
+
+* we will establish any final work to be completed on the catalogue entries
 
 #### March 10 - Group Work&#x20;
 

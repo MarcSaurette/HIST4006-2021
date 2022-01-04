@@ -25,13 +25,13 @@ In the final part of the course, students will write up an overarching examinati
 
 We will be talking about your catalogue descriptions on the date noted. This means noting areas of discussion/ research should be posted a week beforehand.&#x20;
 
-| Date          | Author 1 | Author 2 |
-| ------------- | -------- | -------- |
-| January 20th  | Riley    | Keira    |
-| January 27th  | Nigel    | Kealey   |
-| February 3rd  | David    | Darius   |
-| February 10th | Natasha  | Laura    |
-| February 17th | Ava      | Lilo     |
-| March 3rd     | Carol    | Nicholas |
-| March 10th    | Josh     | Maggie   |
+| Date             | Author 1 | Author 2 |
+| ---------------- | -------- | -------- |
+| January 20th     | Riley    | Keira    |
+| January 27th     | Nigel    | Kealey   |
+| February 3rd     | David    | Darius   |
+| February 10th    | Natasha  | Laura    |
+| February 17th    | Ava      | Lilo     |
+| March 3rd        | Carol    | Nicholas |
+| March 3rd (also) | Josh     | Maggie   |
 
