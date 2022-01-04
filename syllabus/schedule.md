@@ -78,24 +78,42 @@ Come to class ready to discuss:&#x20;
 
 _Folio Workshop_
 
-
+We will be reviewing [Nigel](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit#heading=h.71kokp9d2mdi) and [Kealey's](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit#heading=h.sumgnav2pjjw) catalogue entries.&#x20;
 
 _Listen to/ View:_&#x20;
 
 * [Suzette van Haaren - The Bury Bible in a different light](https://youtu.be/cKScVAqX9x0)
-* [Bill Endres, Welcome to the Golden Age of Digitization: An Ode to a New Entry, Virtual Reality](https://youtu.be/rmzcGHRzzYM)
 * [Maciej Pawlikowski - Evolution of the digitisation labs](https://youtu.be/HohW5p7qK\_Y)
+* [Bill Endres, Welcome to the Golden Age of Digitization: An Ode to a New Entry, Virtual Reality](https://youtu.be/rmzcGHRzzYM)
 * [Astrid Smith - Digitization ellipses](https://youtu.be/J0sx32YOYxw)
 
 _For discussion/ contemplation:_
 
+Van Haaren and Pawlikoski provide us with an overview of what are current standard practices of digitization studios. Endres suggests pathways for future development. And Smith suggests what is not captured by digitization. After watching these four presentations (and previously viewed materials), come ready to talk about the past, present and future of digitization.&#x20;
 
+In particular consider:
+
+* what does new technology offer to distinguish it from in-person/ analog efforts at analysis?
+* what does new technology lack; what can the digital not capture at the moment?
+* how does this technology change how you consider the digital manuscript?
+* we often think about the digital facsimile as images. Is this a reasonable assumption to make?
+
+Be ready to talk about:
+
+* one thing that surprised you about the discussions
+* one thing that reinforced what you already were thinking about digitical facsimiles
 
 #### February 3 - Digital Archives, Repositories and Exhibitions
 
-####
+This week we tackle the thorny issue of&#x20;
 
-####
+_Listen to/ View:_
+
+*
+
+_To do:_&#x20;
+
+By the end of discussion, we should&#x20;
 
 #### Text Encoding I
 
