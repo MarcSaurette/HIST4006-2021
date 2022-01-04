@@ -46,7 +46,7 @@ _To do:_&#x20;
 
 _Exhibition Brainstorming_:
 
-* If we were to put together an exhibition&#x20;
+* If we were to put together an exhibition, how would we want to engage with the public? What do you think might be the differences between a digital exhibition and a physical one?&#x20;
 
 #### January 20 - Understanding Digital Manuscripts
 
@@ -77,6 +77,10 @@ Come to class ready to discuss:&#x20;
 * How does Green argue that a manuscripts materiality suggests the limitations of digitization?
 * How does the manuscript appear differently when put on video and when viewed on the St. Andrew's website?
 * How much can you interact with the manuscript on the website? Or are you limited to passive viewing? What kind of information do they offer to enhance your experience?
+
+_Brainstorming for the exhibition:_&#x20;
+
+* If we were to display our medieval fragments digitally, how should we display them/ should we allow the audience to engage with them?
 
 #### January 27 - New Approaches in Digitizing Medieval Manuscripts
 
@@ -120,33 +124,41 @@ Be ready to talk about:
 * one thing that reinforced what you already were thinking about digitical facsimiles
 * what are the limitations on digitization efforts
 
+_Exhibition Brainstorming_
+
+* In our future exhibition, should we offer something beyond simple scans of our materials. Should we edit them digitally, or create facsimiles to help communicate information? (e.g. edit the contrast of the Carthusian bifoilium to highlight the very faint marginalia?).&#x20;
+
 #### February 3 - Digital Preservation and Repositories
 
 This week we tackle the thorny issue of storing and showcasing medieval manuscripts. We can dream that access to medieval manuscripts could be solved by "digitizing everything" and putting it up on the web - but there are limits. Digitization takes time, resources and storage; like other materials, digital data degrades over time (bit rot), data standards change (new software upgrades might not be backwards compatible) as does technology (CDs or 3.25" disks are difficult to consult even if the data on them are perfectly preserved). And as the number of digital facsimiles increase (as does the associated data), how can easy access be preserved?
-
-
 
 _Listen to/ View:_
 
 * Coding Codices. Ep. 6.&#x20;
 
-_To do:_&#x20;
+_Exhibition Brainstorming_
 
-By the end of discussion, we should&#x20;
+By the end of our discussion, we should think through ways to ensure the preservation/ longevity of our information/ catalogue/ exhibition.&#x20;
 
-#### Text Encoding I
+#### February 10 - Digital Manuscript Exhibitions
+
+_Listen to/View:_
+
+*
+
+_Exhibition Brainstorming_
+
+By the end of our discussion, we think about the basic format of our proposed exhibition.
+
+#### February 17th - Text Encoding I
 
 * Digital editions seek to reproduce the content of medieval manuscripts but have more flexibility in how it is displayed. Traditionally, editions have been limited by the availability of type. In the fifteenth and sixteenth century, traditional letter forms in English (thorn \[ **þ**], eth \[**ð**], yogh \[**ȝ**]) , for example, were lost because Swiss, German and French type makers did not use them. But digital typography allows us to more closely mirror the appearance of medieval texts if we wish.&#x20;
 * In this class, we will experiment with Medieval Unicode Fonts to get you used to using medieval character forms, abbreviations etc.&#x20;
 
-#### February 10 - Text Encoding II
+#### Text Encoding II
 
 * Digital editions have greater flexibility because digital files (unlike print) have ways to distinguish the visible text and the underlying code.
 * In this class, we will work on establishing a draft XML file of a short transcription of a Carleton manuscript fragment
-
-#### February 17 - Capturing Manuscripts
-
-* How do we digitize? Usually this means making an image, but what are the best (and safest) ways to get an image of a medieval manuscript (or any document, frankly). This week's readings try to give us a sense of how to image documents.
 
 #### February 24 - Reading Week&#x20;
 
@@ -166,9 +178,9 @@ No classes.
 
 * For these four weeks, we will be working together to brainstorm, develop and produce an 'exhibition' of our medieval folios and/or our copies/transformations of them into print, manuscript and digital versions.&#x20;
 
-#### April 7 - Finale - Exhibition Launch
+#### April 7 - Finale - Exhibition Launch?
 
-* In this class, we will celebrate the end of term and the launch of our class exhibition (online or physical, or maybe both).&#x20;
+* In this class, we will celebrate the end of term and –perhaps– the launch of our class exhibition (online or physical, or maybe both).&#x20;
 
 ## Fall Term
 
