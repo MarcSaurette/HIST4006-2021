@@ -89,6 +89,8 @@ _Brainstorming for the exhibition:_&#x20;
 
 #### January 27 - New Approaches in Digitizing Medieval Manuscripts
 
+![Idealized digitization workflow](../.gitbook/assets/asset-v1-HarvardX+DigHum\_01+1T2019+type@asset+block@Idealized\_Digitization\_Workflow-2.jpg)
+
 _Folio Workshop_
 
 We will be reviewing [Nigel](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit#heading=h.71kokp9d2mdi) and [Kealey's](https://docs.google.com/document/d/1AXB4XI8MEZqDe838scWus\_SCO1l2SWm5mxj2\_8lfFU8/edit#heading=h.sumgnav2pjjw) catalogue entries.&#x20;
@@ -133,6 +135,13 @@ _Exhibition Brainstorming_
 
 * In our future exhibition, should we offer something beyond simple scans of our materials. Should we edit them digitally, or create facsimiles to help communicate information? (e.g. edit the contrast of the Carthusian bifoilium to highlight the very faint marginalia?).&#x20;
 
+_Going Further:_&#x20;
+
+The Department of Canadian Heritage has developed a [number tutorials and sets of guidelines](https://www.canada.ca/en/heritage-information-network/services/digitization.html) to help Canadian heritage institutions with the process of digitization.
+
+* Please take a look at the [Digital Imaging guide](https://mwdl.org/docs/digital-imaging-bp\_2.0.pdf) to understand imaging terminology.
+* but spend most of your time and focus on completing the [Capture Your Collection: Small Museum Tutorial](https://www.canada.ca/en/heritage-information-network/services/digitization/capture-collections-small-museum.html). Keep in mind that images of all the folios have been photographed, and are already available through a IIIF server online. The exercises are useful tools for your to reflect on the process outlined, but not necessary to complete for our purpose.
+
 #### February 3 - Digital Preservation and Repositories
 
 This week we tackle the thorny issue of storing and showcasing medieval manuscripts. We can dream that access to medieval manuscripts could be solved by "digitizing everything" and putting it up on the web - but there are limits. Digitization takes time, resources and storage; like other materials, digital data degrades over time (bit rot), data standards change (new software upgrades might not be backwards compatible) as does technology (CDs or 3.25" disks are difficult to consult even if the data on them are perfectly preserved). And as the number of digital facsimiles increase (as does the associated data), how can easy access be preserved?
@@ -143,10 +152,11 @@ We will be reviewin_g X_ and Y's catalogue entries.&#x20;
 
 _Listen to/ View:_
 
-* Coding Codices. Ep. 6.&#x20;
+* [Coding Codices. Ep. 6](https://podcast.digitalmedievalist.org/episode-6-digital-archive-and-materiality/). Eric Ensley and Matthew Kirschenbaum talk about the archive, both digital and material.
 
 _For discussion/ contemplation:_
 
+* How do digital artefacts/ facsimiles have their own storage requirements?
 *
 
 _Exhibition Brainstorming_
