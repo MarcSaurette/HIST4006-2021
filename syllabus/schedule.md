@@ -142,7 +142,7 @@ The Department of Canadian Heritage has developed a [number tutorials and sets o
 * Please take a look at the [Digital Imaging guide](https://mwdl.org/docs/digital-imaging-bp\_2.0.pdf) to understand imaging terminology.
 * but spend most of your time and focus on completing the [Capture Your Collection: Small Museum Tutorial](https://www.canada.ca/en/heritage-information-network/services/digitization/capture-collections-small-museum.html). Keep in mind that images of all the folios have been photographed, and are already available through a IIIF server online. The exercises are useful tools for your to reflect on the process outlined, but not necessary to complete for our purpose.
 
-#### February 3 - Digital Preservation and Repositories
+#### February 3 - Digital Preservation,  Repositories and Exhibitions
 
 This week we tackle the thorny issue of storing and showcasing medieval manuscripts. We can dream that access to medieval manuscripts could be solved by "digitizing everything" and putting it up on the web - but there are limits. Digitization takes time, resources and storage; like other materials, digital data degrades over time (bit rot), data standards change (new software upgrades might not be backwards compatible) as does technology (CDs or 3.25" disks are difficult to consult even if the data on them are perfectly preserved). And as the number of digital facsimiles increase (as does the associated data), how can easy access be preserved?
 
@@ -150,9 +150,13 @@ _Folio Workshop_
 
 We will be reviewin_g X_ and Y's catalogue entries.&#x20;
 
-_Listen to/ View:_
+_Listen to/ View/Explore:_
 
 * [Coding Codices. Ep. 6](https://podcast.digitalmedievalist.org/episode-6-digital-archive-and-materiality/). Eric Ensley and Matthew Kirschenbaum talk about the archive, both digital and material.
+* BNF Collection: try to navigate from 1 to 3 using the&#x20;
+  1. [Manuscripts Overview](https://archivesetmanuscrits.bnf.fr) (browsing different collections)
+  2. [Manuscript Department](https://archivesetmanuscrits.bnf.fr/pageCollections.html?col=1) (top level menu)
+  3. BNF, [manuscrit latin 10622](https://gallica.bnf.fr/ark:/12148/btv1b100385884/f2.item)
 
 _For discussion/ contemplation:_
 
@@ -161,34 +165,37 @@ _For discussion/ contemplation:_
 
 _Exhibition Brainstorming_
 
-By the end of our discussion, we should think through ways to ensure the preservation/ longevity of our information/ catalogue/ exhibition.&#x20;
+By the end of our discussion, we should think through ways to ensure the preservation/ longevity of our information/ catalogue/ exhibition. And we will decide on the basic format of our proposed exhibition.
 
-#### February 10 - Digital Manuscript Exhibitions
+#### February 10 - Digital Editions
 
+Digital editions seek to reproduce the content (text) of medieval manuscripts but have more flexibility in how it is displayed than digital surrogates/ facsimiles or print editions.&#x20;
 
+* Traditionally, editions have been limited by the availability of type. In the fifteenth and sixteenth century, traditional letter forms in English (thorn \[ **þ**], eth \[**ð**], yogh \[**ȝ**]) , for example, were lost because Swiss, German and French type makers did not use them (and thus did not make the type). But digital typography allows us to more closely mirror the appearance of medieval texts if we wish.&#x20;
+* digital editions function as hidden databases and contain a wealth of information that does not necessarily get visualized for the reader
 
-_Folio Workshop_
+_Read_:
 
-We will be reviewin_g X_ and Y's catalogue entries.&#x20;
+Patrick Sahle, “What is a Scholarly Digital Edition?” in _Digital Scholarly Editing: Theories and Practices_ - Open Book Publishers,” accessed December 30, 2018, [https://doi.org/10.11647/OBP.0095](https://doi.org/10.11647/OBP.0095)
 
-_Listen to/ View:_
+“[The Effects of the Seven Sins](https://scholarlyediting.org/2017/editions/sevensins/intro.html#page\_info)”: A Critical Edition edited by Krista A. Murchison
 
-* &#x20;
+* this short edition of a poem on the sins is an example of a born digital edition - the text functions almost as a database. How to read this text is explained in more detail in the exercise, [_Reading a TEI edition_](exercises-term-ii/reading-a-tei-edition.md)_._
 
-_For discussion/ contemplation:_
+For a sense of what TEI is about take a look at Lou Burnard's short Open Edition [_What is the Text Encoding Initiative: How to add intelligent markup to digital resources_ ](https://books.openedition.org/oep/426?format=toc)_._ All in, this text runs to 114 pages, so read from the "Introduction" until the end of "Varieties of textual structure". Please read the whole thing if you get intrigued.
 
-*
+_Additional Examples of TEI encoded Folio descriptions_
 
-_Exhibition Brainstorming_
+* Antiphonary folio located at the Beinecke Rare Book and Manuscript Library, catalogued on the [Fragmentarium website](https://fragmentarium.ms/description/F-5xax/383).&#x20;
+* [TEI xml](https://fragmentarium.ms/description/export/383/F-5xax-383.xml) sheet for the above Antiphonary folio.&#x20;
 
-By the end of our discussion, we will decide on the basic format of our proposed exhibition.
+_To Do:_&#x20;
 
-#### February 17th - Text Encoding I
+* Before class, complete the exercise, [_Reading a TEI edition_](exercises-term-ii/reading-a-tei-edition.md)_._&#x20;
 
-* Digital editions seek to reproduce the content of medieval manuscripts but have more flexibility in how it is displayed. Traditionally, editions have been limited by the availability of type. In the fifteenth and sixteenth century, traditional letter forms in English (thorn \[ **þ**], eth \[**ð**], yogh \[**ȝ**]) , for example, were lost because Swiss, German and French type makers did not use them. But digital typography allows us to more closely mirror the appearance of medieval texts if we wish.&#x20;
-* In this class, we will experiment with Medieval Unicode Fonts to get you used to using medieval character forms, abbreviations etc.&#x20;
+####
 
-#### Text Encoding II
+#### February 17th - Text Encoding II
 
 * Digital editions have greater flexibility because digital files (unlike print) have ways to distinguish the visible text and the underlying code.
 * In this class, we will work on establishing a draft XML file of a short transcription of a Carleton manuscript fragment

@@ -45,6 +45,8 @@
 * [Exercises Term II](syllabus/exercises-term-ii/README.md)
   * [Setting up new digital resources](syllabus/exercises-term-ii/setting-up-new-digital-resources.md)
   * [Using Knightlabs Timeline](syllabus/exercises-term-ii/using-knightlabs-timeline.md)
+  * [Using the BNF digital collection](syllabus/exercises-term-ii/using-the-bnf-digital-collection.md)
+  * [Reading a TEI edition](syllabus/exercises-term-ii/reading-a-tei-edition.md)
 
 ## Fundamentals
 
