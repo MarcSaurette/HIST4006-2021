@@ -156,7 +156,9 @@ _Listen to/ View/Explore:_
 * BNF Collection: try to navigate from 1 to 3 using the&#x20;
   1. [Manuscripts Overview](https://archivesetmanuscrits.bnf.fr) (browsing different collections)
   2. [Manuscript Department](https://archivesetmanuscrits.bnf.fr/pageCollections.html?col=1) (top level menu)
-  3. BNF, [manuscrit latin 10622](https://gallica.bnf.fr/ark:/12148/btv1b100385884/f2.item)
+  3. BNF, [manuscrit latin 10622](https://gallica.bnf.fr/ark:/12148/btv1b100385884/f2.item) (presentation via Mirador/ IIIF)
+* Joint BNF/ British Library exhibition
+* Siege of Jerusalem website
 
 _For discussion/ contemplation:_
 
