@@ -46,12 +46,16 @@ _To do:_&#x20;
 
 _Exhibition Brainstorming_:
 
-* We establish different work groups for our revision of the manuscript catalogue this term.&#x20;
-  * editorial
-  * palaeographical
-  * art historical
-  * codicological
-* If we were to put together an exhibition, how would we want to engage with the public? What do you think might be the differences between a digital exhibition and a physical one?&#x20;
+*   We establish different work groups for our revision of the manuscript catalogue this term. Student's will choose an area of specialization they will concentrate on for the first half of the term.
+
+    * editorial (maintaining consistent standards, appearance and structure for all the entries)
+    * palaeographical (considering palaeographical questions each week)
+    * art historical (focussing on decorative elements each week)
+    * codicological (focussing on mise-en-page, binding elements)
+    * provenance (developping the historical picture of the folios)
+
+
+* Also consider, if we were to put together an exhibition, how would we want to engage with the public? What do you think might be the differences between a digital exhibition and a physical one?&#x20;
 
 #### January 20 - Understanding Digital Manuscripts
 
@@ -146,9 +150,11 @@ The Department of Canadian Heritage has developed a [number tutorials and sets o
 
 This week we tackle the thorny issue of storing and showcasing medieval manuscripts. We can dream that access to medieval manuscripts could be solved by "digitizing everything" and putting it up on the web - but there are limits. Digitization takes time, resources and storage; like other materials, digital data degrades over time (bit rot), data standards change (new software upgrades might not be backwards compatible) as does technology (CDs or 3.25" disks are difficult to consult even if the data on them are perfectly preserved). And as the number of digital facsimiles increase (as does the associated data), how can easy access be preserved?
 
+And how does information get displayed. Consider the different impetuses of archivists and curators. How does organization get organized (and therefore experienced) differently depending on its purpose.&#x20;
+
 _Folio Workshop_
 
-We will be reviewin_g X_ and Y's catalogue entries.&#x20;
+We will be reviewin_g_ David __ and Darius' catalogue entries.&#x20;
 
 _Listen to/ View/Explore:_
 
@@ -157,8 +163,8 @@ _Listen to/ View/Explore:_
   1. [Manuscripts Overview](https://archivesetmanuscrits.bnf.fr) (browsing different collections)
   2. [Manuscript Department](https://archivesetmanuscrits.bnf.fr/pageCollections.html?col=1) (top level menu)
   3. BNF, [manuscrit latin 10622](https://gallica.bnf.fr/ark:/12148/btv1b100385884/f2.item) (presentation via Mirador/ IIIF)
-* Joint BNF/ British Library exhibition
-* Siege of Jerusalem website
+* [England and France: Medieval Manuscripts from 700-1200](https://manuscrits-france-angleterre.org/polonsky/en/content/accueil-en?mode=desktop)
+* [Siege of Jerusalem Archive](https://siegeofjerusalem.org)
 
 _For discussion/ contemplation:_
 
@@ -175,6 +181,12 @@ Digital editions seek to reproduce the content (text) of medieval manuscripts bu
 
 * Traditionally, editions have been limited by the availability of type. In the fifteenth and sixteenth century, traditional letter forms in English (thorn \[ **þ**], eth \[**ð**], yogh \[**ȝ**]) , for example, were lost because Swiss, German and French type makers did not use them (and thus did not make the type). But digital typography allows us to more closely mirror the appearance of medieval texts if we wish.&#x20;
 * digital editions function as hidden databases and contain a wealth of information that does not necessarily get visualized for the reader
+
+_Folio Workshop_
+
+We will be reviewin_g_ Natasha __ and Laura's catalogue entries.&#x20;
+
+__
 
 _Read_:
 
@@ -195,12 +207,14 @@ _To Do:_&#x20;
 
 * Before class, complete the exercise, [_Reading a TEI edition_](exercises-term-ii/reading-a-tei-edition.md)_._&#x20;
 
-####
-
 #### February 17th - Text Encoding II
 
 * Digital editions have greater flexibility because digital files (unlike print) have ways to distinguish the visible text and the underlying code.
 * In this class, we will work on establishing a draft XML file of a short transcription of a Carleton manuscript fragment
+
+_Folio Workshop_
+
+We will be reviewin_g_ Ava __ and Lilo' catalogue entries.&#x20;
 
 #### February 24 - Reading Week&#x20;
 

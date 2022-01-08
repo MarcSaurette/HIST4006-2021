@@ -9,7 +9,7 @@ In the first half of the Winter semester, we will spend part of each class works
 
 ### Specialized Areas of Expertise:
 
-Students will choose to focus on specific codicological topics over the course of the seven weeks of the workshop. Students will become the expert commentator in workshops on their field of expertise.  Potential areas of focus could be (but are not limited to):
+On January 13th, students will choose to focus on specific codicological topics over the course of the seven weeks of the workshop. Students will become the expert commentator in workshops on their field of expertise.  Potential areas of focus could be (but are not limited to):
 
 * ornamentation and decoration
 * marginalia (this might be hard due to lack of marginalia generally)
