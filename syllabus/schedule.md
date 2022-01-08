@@ -166,14 +166,25 @@ _Listen to/ View/Explore:_
 * [England and France: Medieval Manuscripts from 700-1200](https://manuscrits-france-angleterre.org/polonsky/en/content/accueil-en?mode=desktop)
 * [Siege of Jerusalem Archive](https://siegeofjerusalem.org)
 
+_To do:_&#x20;
+
+* Complete the [Using the BNF digital collection](exercises-term-ii/using-the-bnf-digital-collection.md) exercise
+
 _For discussion/ contemplation:_
 
 * How do digital artefacts/ facsimiles have their own storage requirements?
-*
+* How does the BNF organize archival and manuscript information. Why do you think it is organized the way it is? How does it function from a User Experience perspective?
+* How are the _England and France_ and the Siege of Jerusalem exhibitions/ repositories designed? These should be considered case studies that will allow you to think through how you want to structure your future exhibit.&#x20;
+  * Who is the intended audience?
+  * What information is communicated?
+  * Is the purpose popular or scholarly?
+  * How is the audience expected to experience the information?&#x20;
+  * What is the dominant form of media used?
+  * How interactive are they?&#x20;
 
 _Exhibition Brainstorming_
 
-By the end of our discussion, we should think through ways to ensure the preservation/ longevity of our information/ catalogue/ exhibition. And we will decide on the basic format of our proposed exhibition.
+By the end of our discussion, we should be able to express ways to ensure the preservation/ longevity of our information/ catalogue/ exhibition. And we will decide on the basic format of our proposed exhibition.
 
 #### February 10 - Digital Editions
 
@@ -185,8 +196,6 @@ Digital editions seek to reproduce the content (text) of medieval manuscripts bu
 _Folio Workshop_
 
 We will be reviewin_g_ Natasha __ and Laura's catalogue entries.&#x20;
-
-__
 
 _Read_:
 
