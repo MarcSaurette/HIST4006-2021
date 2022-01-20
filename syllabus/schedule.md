@@ -68,7 +68,7 @@ We will be reviewing and researching, [Riley](https://docs.google.com/document/d
 _Listen to/ View:_
 
 * [Coding Codices. Ep. 7](https://podcast.digitalmedievalist.org/episode-7-facsimile-narratives/). Mateusz Fafinski discusses his work on the theory of digital humanities.
-* [Coding Codices. Ep. 8](https://podcast.digitalmedievalist.org/episode-8-material-manuscripts-in-a-digital-world/). Dr. Johanna Green speaks about manuscript materiality, digitization projects, and increased access to physical objects.
+* [Coding Codices. Ep. 8](https://podcast.digitalmedievalist.org/episode-8-material-manuscripts-in-a-digital-world/). Dr. Johanna Green speaks about manuscript materiality, digitization projects, and increased access to physical objects. If you want to read more of Dr. Green, you have the _option_ to read her article "[Digital Manuscripts as Sites of Touch](https://www.archivejournal.net/essays/digital-manuscripts-as-sites-of-touch-using-social-media-for-hands-on-engagement-with-medieval-manuscript-materiality/)".
 * Maia Sheridan/Eddie Martin/Erica Kotze.  [A conversation about digitising mediaeval manuscripts](https://youtu.be/TL0YonsTtxM). (2021)
 * University of St Andrews, [ms BR65 .A9](https://collections.st-andrews.ac.uk/item/st-augustine-of-hippo-opera/762337): _Collected works of Augustine of Hippo_
 
