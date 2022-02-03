@@ -2,6 +2,11 @@
 
 \[currently under development - in process of drafting]
 
+
+
+
+
+* Scragg, Donald. “Reading a Manuscript Description.” In The Cambridge Companion to Medieval British Manuscripts, edited by Orietta Da Rold and Elaine Treharne, 39–48. Cambridge Companions to Literature. Cambridge: Cambridge University Press, 2020.
 * A key reference work is the [_Descriptive Cataloging of Ancient, Medieval, Renaissance, and Early Modern Manuscripts_](http://www.ala.org/acrl/sites/ala.org.acrl/files/content/publications/booksanddigitalresources/digital/AMREMM\_full.pdf), by Gregory A. Pass put together for the Bibliographic Standards Committee: Rare Books and Manuscripts Section.
 * Suarez, Michael F. ‘Book History from Descriptive Bibliographies’. In _The Cambridge Companion to the History of the Book,_ edited by Leslie Howsam, 199–218. Cambridge: Cambridge University Press, 2014. [https://doi.org/10.1017/CCO9781139152242.015](https://doi.org/10.1017/CCO9781139152242.015).
 

@@ -141,6 +141,8 @@ _Exhibition Brainstorming_
 
 _Going Further:_&#x20;
 
+* Read Smith, Astrid J. “What It Is to Be a Digitization Specialist: Chasing Medieval Materials in a Sea of Pixels.” In _Medieval Manuscripts in the Digital Age_. Routledge, 2020.
+
 The Department of Canadian Heritage has developed a [number tutorials and sets of guidelines](https://www.canada.ca/en/heritage-information-network/services/digitization.html) to help Canadian heritage institutions with the process of digitization.
 
 * Please take a look at the [Digital Imaging guide](https://mwdl.org/docs/digital-imaging-bp\_2.0.pdf) to understand imaging terminology.
@@ -181,6 +183,13 @@ _For discussion/ contemplation:_
 _Exhibition Brainstorming_
 
 By the end of our discussion, we should be able to express ways to ensure the preservation/ longevity of our information/ catalogue/ exhibition. And we will decide on the basic format of our proposed exhibition.
+
+_Going Further:_&#x20;
+
+*   Paul, Suzanne. “The Curation and Display of Digital Medieval Manuscripts.” In The
+
+    _Cambridge Companion to Medieval British Manuscripts_, edited by Elaine Treharne and Orietta Da Rold, 267–83. Cambridge Companions to Literature. Cambridge: Cambridge University Press, 2020.
+* Read Heather Bamford and Emily C. Francomano. "On Digital-Medieval Manuscript Culture: A Tentative Manifesto." _Digital Philology: A Journal of Medieval Cultures_ 7, no. 1 (2018): 29-45
 
 #### February 10 - Digital Editions
 
