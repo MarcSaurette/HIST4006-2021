@@ -166,10 +166,6 @@ _Listen to/ View/Explore:_
 * [England and France: Medieval Manuscripts from 700-1200](https://manuscrits-france-angleterre.org/polonsky/en/content/accueil-en?mode=desktop)
 * [Siege of Jerusalem Archive](https://siegeofjerusalem.org)
 
-_To do:_&#x20;
-
-* Complete the [Using the BNF digital collection](exercises-term-ii/using-the-bnf-digital-collection.md) exercise
-
 _For discussion/ contemplation:_
 
 * How do digital artefacts/ facsimiles have their own storage requirements?
