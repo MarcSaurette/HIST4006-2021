@@ -228,7 +228,7 @@ _To Do:_&#x20;
 
 _Folio Workshop_
 
-We will be reviewin_g_ ' catalogue entries.&#x20;
+We will be working individually on completing our contributions to the __ catalogue entries.&#x20;
 
 #### February 24 - Reading Week&#x20;
 
