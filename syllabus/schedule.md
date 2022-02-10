@@ -223,12 +223,12 @@ _To Do:_&#x20;
 
 #### February 17th - Text Encoding II
 
-* Digital editions have greater flexibility because digital files (unlike print) have ways to distinguish the visible text and the underlying code.
-* In this class, we will work on establishing a draft XML file of a short transcription of a Carleton manuscript fragment
+* ~~Digital editions have greater flexibility because digital files (unlike print) have ways to distinguish the visible text and the underlying code.~~
+* ~~In this class, we will work on establishing a draft XML file of a short transcription of a Carleton manuscript fragment~~
 
 _Folio Workshop_
 
-We will be reviewin_g_ Ava __ and Lilo' catalogue entries.&#x20;
+We will be reviewin_g_ ' catalogue entries.&#x20;
 
 #### February 24 - Reading Week&#x20;
 
@@ -236,11 +236,11 @@ No classes.
 
 #### March 3 - Completing the Catalogue
 
-This day will be a final&#x20;
+This day will be a final review of the folio's and pushing to get a coherent final draft complete.&#x20;
 
 _Folio Workshop_
 
-We will be reviewin_g Carol, Nicholas and Josh's_ catalogue entries.&#x20;
+We will be reviewin_g Ava, Lilo,_ _Nicholas and Josh's_ catalogue entries.&#x20;
 
 _To do:_
 
