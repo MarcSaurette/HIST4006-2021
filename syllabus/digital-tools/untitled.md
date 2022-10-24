@@ -4,7 +4,7 @@
 We won't be using hypothes.is for readings (which is done on Perusall). But rather only for receiving feedback on written (web-based assignments).
 {% endhint %}
 
-​[Hypothes.is](https://hypothes.is) is a tool which allows you to annotate web content for your personal research or, in our case, to allow us to collaborate as a group. It is, in essence, a digital version of you writing notes in the margins of a book/ photocopy. If you open a pdf in your browser, for example, you can annotate it and all your comments are saved in a central location.
+​[Hypothes.is](https://hypothes.is/) is a tool which allows you to annotate web content for your personal research or, in our case, to allow us to collaborate as a group. It is, in essence, a digital version of you writing notes in the margins of a book/ photocopy. If you open a pdf in your browser, for example, you can annotate it and all your comments are saved in a central location.
 
 ## Installing Hypothes.is <a href="#installing-hypothes-is" id="installing-hypothes-is"></a>
 
@@ -16,7 +16,7 @@ If you have already used hypothesis, please join our group by following [this li
 
 1.If you don't already use Google Chrome, download a free copy [here](https://www.google.ca/chrome/) and install. You can use hypothes.is on other browsers but Chrome is the most solid build.
 
-2\. Navigate to the hypothes.is website ([https://web.hypothes.is](https://web.hypothes.is)) and press the "Get Started" button in the top right corner.
+2\. Navigate to the hypothes.is website ([https://web.hypothes.is](https://web.hypothes.is/)) and press the "Get Started" button in the top right corner.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M4yKpPlPdQosdDQEEYo%2F-M9yGre4BGd2xxzJ83ln%2F-M9yJ0Xt6MlMc2SOgiAu%2FScreen%20Shot%202020-06-16%20at%202.03.38%20PM.png?alt=media\&token=8ec0ac8e-5edf-4b56-b275-fb03f08fac45)
 

@@ -2,7 +2,7 @@
 
 ### Atom Text editor
 
-[Atom](https://atom.io) is a free and simple text editor, useful for working with many different kinds of file formats, including MD, HTML and TEI files. If you use Linux, you can also use [Remarkable](https://remarkableapp.github.io) for editing markdown files (.md), which has the benefit of providing a live preview of how the file will look online. [Visual Studio Code](https://code.visualstudio.com) is another option for Linux, Windows and Mac; with a bit of work it can also be configured to provide a live preview.
+[Atom](https://atom.io/) is a free and simple text editor, useful for working with many different kinds of file formats, including MD, HTML and TEI files. If you use Linux, you can also use [Remarkable](https://remarkableapp.github.io) for editing markdown files (.md), which has the benefit of providing a live preview of how the file will look online. [Visual Studio Code](https://code.visualstudio.com) is another option for Linux, Windows and Mac; with a bit of work it can also be configured to provide a live preview.
 
 You will need to install and set up Atom. Luckily for me, another medievalist, Andrew Dunning has [written a guide](https://andrewdunning.ca/getting-started-editing-tei-xml-atom) to help you get it set up. Either click through to the next page or [click here](getting-started-with-editing-tei-xml-using-atom.md).&#x20;
 

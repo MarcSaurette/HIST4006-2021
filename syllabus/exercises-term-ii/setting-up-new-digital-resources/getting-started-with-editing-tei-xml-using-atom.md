@@ -17,9 +17,9 @@ Editing a file with TEI is much more precise than using a word processor. When y
 
 You can edit XML in any ‘plain-text editor’, a program that allows you to work with the exact characters being sent to a computer. You already have TextEdit (Mac) or Notepad (Windows), and you can edit a TEI file with these programs, but your life will easier with tools designed for working with XML.
 
-The best introductory text editor for TEI is [Atom](https://atom.io), a highly customizable and open-source program that works on Mac, Windows, and Linux systems. The key feature that you need for basic TEI editing is XML ‘validation’, which checks your files against a TEI ‘schema’ as you work.
+The best introductory text editor for TEI is [Atom](https://atom.io/), a highly customizable and open-source program that works on Mac, Windows, and Linux systems. The key feature that you need for basic TEI editing is XML ‘validation’, which checks your files against a TEI ‘schema’ as you work.
 
-Many people in the TEI community use the [Oxygen XML Editor](https://www.oxygenxml.com). It’s devoted specifically to XML, but it has far more features than you need if you’re simply creating a transcription or edition.
+Many people in the TEI community use the [Oxygen XML Editor](https://www.oxygenxml.com/). It’s devoted specifically to XML, but it has far more features than you need if you’re simply creating a transcription or edition.
 
 To use Atom together with its packages for XML, you’ll need both Atom itself and Java. You can install these using the Terminal on the Mac, or using a Web browser on any system.
 
@@ -32,7 +32,7 @@ This approach uses Homebrew, a program for adding Unix-based programs to your Ma
 This will install Atom and its packages for XML using Homebrew:
 
 1. Open the Terminal, inside your ‘Utilities’ folder inside Applications. Terminal gives you direct access to the Unix system at the heart of your computer. It might look daunting if you didn’t use a computer before the 1990s, but it simply lets you run commands by typing words instead of clicking buttons.
-2. Install [Homebrew](https://brew.sh) by going to its website and pasting the command it gives you into the Terminal.
+2. Install [Homebrew](https://brew.sh/) by going to its website and pasting the command it gives you into the Terminal.
 3.  Install Atom and Java using Homebrew by copying this line into the Terminal:
 
     ```
@@ -52,7 +52,7 @@ You will find Atom in your Applications folder.
 
 To install Atom together with its packages for writing XML using a Web browser:
 
-1. Download [Atom](https://atom.io) and install it. For more detailed instructions, see [Installing Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/).
+1. Download [Atom](https://atom.io/) and install it. For more detailed instructions, see [Installing Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/).
 2. Download [Java](https://java.com/download/) and run the installer. If you see any offers to install extra, unrelated software, be sure to decline these.
 3. Open Atom, either from your Applications folder (Mac) or Start menu (Windows).
 4. When you open Atom for the first time, you’ll see a Welcome Guide. Click on the ‘Install a Package’ button. If it didn’t appear when you opened Atom, go to the Packages > Settings View > Install Packages/Themes menu option.
@@ -69,8 +69,8 @@ Atom is useful for working not just with XML but any plain-text file, meaning th
 * [_Learn Enough Text Editor to Be Dangerous_](https://www.learnenough.com/text-editor-tutorial), a slightly more advanced overview of how text editors work;
 * [_The Sweet Setup_ review of Atom](https://thesweetsetup.com/apps/best-text-editor-macos/) and other text editors.
 
-The Atom community has produced many packages that give the editor extra functionality. For example, [Teletype for Atom](https://teletype.atom.io) allows multiple people to collaborate on a file over the Internet.
+The Atom community has produced many packages that give the editor extra functionality. For example, [Teletype for Atom](https://teletype.atom.io/) allows multiple people to collaborate on a file over the Internet.
 
-If you find that there are long TEI tags that you keep writing out (such as a critical apparatus), you can set up [snippets](https://flight-manual.atom.io/using-atom/sections/snippets/) in Atom to save you the typing. For a more user-friendly solution that works anywhere on your computer, [TextExpander](https://textexpander.com) allows you to write small forms for a particular project (for example, I often set up snippets that allow me to fill in textual variants from standard manuscripts).
+If you find that there are long TEI tags that you keep writing out (such as a critical apparatus), you can set up [snippets](https://flight-manual.atom.io/using-atom/sections/snippets/) in Atom to save you the typing. For a more user-friendly solution that works anywhere on your computer, [TextExpander](https://textexpander.com/) allows you to write small forms for a particular project (for example, I often set up snippets that allow me to fill in textual variants from standard manuscripts).
 
-Once you’re ready to start writing TEI, [_What is the Text Encoding Initiative?_](http://books.openedition.org/oep/426) is a good place to start. If you’re working with premodern sources, you might begin with [EpiDoc](http://epidoc.sourceforge.net), which is provides examples of how to transcribe manuscripts and inscriptions on its website. The [Digital Latin Library Guidelines](https://digitallatin.github.io/guidelines/) gives an overview of using TEI for critical editions.
+Once you’re ready to start writing TEI, [_What is the Text Encoding Initiative?_](http://books.openedition.org/oep/426) is a good place to start. If you’re working with premodern sources, you might begin with [EpiDoc](http://epidoc.sourceforge.net/), which is provides examples of how to transcribe manuscripts and inscriptions on its website. The [Digital Latin Library Guidelines](https://digitallatin.github.io/guidelines/) gives an overview of using TEI for critical editions.

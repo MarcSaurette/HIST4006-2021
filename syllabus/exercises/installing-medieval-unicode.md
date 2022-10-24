@@ -4,7 +4,7 @@ Our word _alphabet_ comes from the names of the first two letters of the Greek a
 
 Transcribing by hand means that you can approximate unfamiliar characters while you are working through a draft transcription. A digital transcription that retains the characters/ glyphs of the original text, however, is more difficult, as you will need to use a special characters atypical in modern usage/ typical keyboard set up. Two decades ago, there was not an option to use non-standard Latin characters on your computer, but in the past decade we have seen considerable advances in establishing standards for a wider range of characters (in the Latin alphabet, but also in Runic and non-Western alphabets). We will access these characters in [**unicode**](https://en.wikipedia.org/wiki/Unicode\_input). We can thank a small group of dedicated scholars who founded the Medieval Unicode Font Initiative ([MUFI](https://folk.uib.no/hnooh/mufi/)), which has set out to make a diverse range of manuscript characters reproducible digitally.
 
-To get a sense of what unicode is, take a look at this resource, [Decode Unicode](http://decodeunicode.org).
+To get a sense of what unicode is, take a look at this resource, [Decode Unicode](http://decodeunicode.org/).
 
 Setting up your computer to use unicode and have access to historical fonts takes a few steps, but is straightforward. To use unicode for medieval scripts, however, is a bit more arcane; you might feel like you're a codebreaker trying to crack the Enigma device. As part of this process, we'll put together a list of the most typical characters you'll use in transcribing your folios.
 
@@ -28,7 +28,7 @@ Choosing the Unicode Hex Input method alters the behaviour of the “option” k
 With default keyboard settings, you can now switch input methods by holding Command (⌘), tapping the spacebar one or more times until the desired method is selected, then releasing the Command key.
 {% endhint %}
 
-1. Download a font that will allow you to use medieval unicode features (a much wider base of characters than one normally uses) from [options](https://folk.uib.no/hnooh/mufi/fonts/index.html) suggested by MUFI. I would suggest you download and install the [Andron](https://folk.uib.no/hnooh/mufi/fonts/Andron/AND\_SCR\_WEB\_3.0.zip) font, but [Junicode](http://junicode.sourceforge.net) and [Titus](http://titus.fkidg1.uni-frankfurt.de/unicode/tituut.asp) also work well.
+1. Download a font that will allow you to use medieval unicode features (a much wider base of characters than one normally uses) from [options](https://folk.uib.no/hnooh/mufi/fonts/index.html) suggested by MUFI. I would suggest you download and install the [Andron](https://folk.uib.no/hnooh/mufi/fonts/Andron/AND\_SCR\_WEB\_3.0.zip) font, but [Junicode](http://junicode.sourceforge.net/) and [Titus](http://titus.fkidg1.uni-frankfurt.de/unicode/tituut.asp) also work well.
 2. It should be as easy as double clicking on the file(s) to add them to a Mac or Windows computer. If you are using Linux, in takes a few more [steps](https://askubuntu.com/questions/3697/how-do-i-install-fonts).
 3. Open up a word processor and after selecting the font you have installed, attempt to type some medieval characters, many of which can't be reproduced in markdown (and thus can't be shown here).
 4. With the option key held down, type EEC5. This should input a small ligature ct (i.e. a c and t together linked by a little curvy pen flourish).

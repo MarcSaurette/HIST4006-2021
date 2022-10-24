@@ -33,7 +33,7 @@ Come ready to discuss:
 
 * How do _Sexy Codicology_ and the _Dutch National Library_ seek to accomplish outreach? Do you think they are successful? What could they do better?&#x20;
 * How do they define their success? What did they want to accomplish?
-* The interview with _Sexy Codicology_ highlights a progressive shift in their goals from being populist then more scholarly (e.g. from using social media to creating web resources to consolidate digitized libraries). Try out the [DMMap](https://digitizedmedievalmanuscripts.org).&#x20;
+* The interview with _Sexy Codicology_ highlights a progressive shift in their goals from being populist then more scholarly (e.g. from using social media to creating web resources to consolidate digitized libraries). Try out the [DMMap](https://digitizedmedievalmanuscripts.org/).&#x20;
   * What is the User Interface like?
   * How does it change how you think about manuscripts whether reading the Sexy Codicology blog/ twitter account or looking at the DMMap site.&#x20;
 * Try out the _Digital Scriptorium_ or the _Europeana_ sites. Like DMMap, they consolidate information held in other digital repositories. The _Digital Scriptorium_ is medieval in content, whereas _Europeana_ is much broader in its content.&#x20;

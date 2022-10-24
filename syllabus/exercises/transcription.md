@@ -8,7 +8,7 @@ You may also wish to consult, Kathleen Walker-Meikle's. "Research Guide: Transcr
 
 The purpose of a transcription is to provide an accurate record of the manuscript . The transcriber, therefore, should resist the temptation to normalize and thus should reproduce the peculiarities of spelling and even outright errors. Maintain original spelling and punctuation as much as possible, but a transcription is not a fascimile.
 
-If you are having problem making out all the letters in a word (this can be hard with Gothic script), try out [the Enigma tool](http://enigma.huma-num.fr). There are likely to be abbreviations in your transcription. For help with unscrabbling abbreviations, see [_Ad fontes_](https://www.adfontes.uzh.ch/en/ressourcen/abkuerzungen/cappelli-online).&#x20;
+If you are having problem making out all the letters in a word (this can be hard with Gothic script), try out [the Enigma tool](http://enigma.huma-num.fr/). There are likely to be abbreviations in your transcription. For help with unscrabbling abbreviations, see [_Ad fontes_](https://www.adfontes.uzh.ch/en/ressourcen/abkuerzungen/cappelli-online).&#x20;
 
 Your goal is to transcribe all the text on your folio/ bifolio.&#x20;
 

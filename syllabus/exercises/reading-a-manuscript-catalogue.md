@@ -14,7 +14,7 @@
 
 * IMS, chps 8 and 9; pp. 117-134.
 * Jeffrey Pomerantz, "Introduction," _Metadata_ (Cambridge, MA: MIT Press, 2015): p. 1-18 (on slack)
-* Shailor - Introduction and Principles of Cataloguing Medieval Manuscripts (on slack)
+* Shailor - [Introduction and Principles of Cataloguing Medieval Manuscript](https://beinecke.library.yale.edu/sites/default/files/files/shailor\_introduction.pdf)s
 * A [Handlist](https://schoenberginstitute.files.wordpress.com/2013/10/schoenbergmscollection.pdf) of Manuscripts in the Schoenberg Collection (UPenn)
 * Eric Johnson and Scott Gwara. ["The Butcher’s Bill”: Using the Schoenberg Database to Reverse-Engineer Medieval and Renaissance Manuscript Books from Constituent Fragments](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1012\&context=mss\_sims)
   * The Schoenberg Database can be consulted online [here](https://sdbm.library.upenn.edu).&#x20;

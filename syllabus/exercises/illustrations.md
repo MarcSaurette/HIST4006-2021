@@ -14,7 +14,7 @@ Medieval manuscript decoration: &#x20;
 
 It is the goal of this exercise to be able to describe and the reproduce the decorative program of your folio, in part so that you can understand how the book functions to convey meaning, both as a text and as a material object.&#x20;
 
-![From Michele Brown, Understanding Illuminated Manuscripts](<../../.gitbook/assets/Elements of Illumination.jpg>)
+<img src="../../.gitbook/assets/Elements of Illumination.jpg" alt="From Michele Brown, Understanding Illuminated Manuscripts" data-size="original">
 
 ### Part I. Describing rubrication and decorations
 
