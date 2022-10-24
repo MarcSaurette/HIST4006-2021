@@ -8,5 +8,5 @@ In the Fall term, students will focus their study on one of Carleton's medieval 
 4. **Catalogue.** The final descriptions/transcripts of the folios will be put together into a shared catalogue (written using uniform structures and styles) in a jointly authored google document. Together we will write up a short introduction to the medieval material we study.&#x20;
 
 {% hint style="info" %}
-The next stage, an [Exhibition](../exhibition.md), will get us to present information to the public.
+The next stage, an [Exhibition](exhibition.md), will get us to present information to the public.
 {% endhint %}

@@ -1,7 +1,7 @@
 # Assessment
 
 {% hint style="info" %}
-I will not assign grades for any of your work until the end of term. In a midterm and end of terms assessments you will evaluate your own work and propose a mark. The only piece of work I will assign a grade to in first term is your end of term [research](../class-work/research-project/) project. I will provide you with feedback throughout the term, so you should have a sense of what you are doing well and what needs improvement.&#x20;
+I will not assign grades for any of your work until the end of term. In a midterm and end of terms assessments you will evaluate your own work and propose a mark. The only piece of work I will assign a grade to in first term is your end of term [research](../class-work/research-project.md) project. I will provide you with feedback throughout the term, so you should have a sense of what you are doing well and what needs improvement.&#x20;
 {% endhint %}
 
 Traditionally at Carleton, fourth-year classes in History are full year (two semester) courses. We do this so that students are given the chance to delve deeply into their subject matter and attain a certain mastery over the whole year.&#x20;

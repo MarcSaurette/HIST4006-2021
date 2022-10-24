@@ -2,7 +2,7 @@
 
 Medieval manuscript layout followed a regular format, based on an ideal of proportion.&#x20;
 
-![](../../.gitbook/assets/Golden-section-2.jpg)
+![](<../../.gitbook/assets/Golden-section-2 (1).jpg>)
 
 Your goal to prepare for your reconstruction of a folio facsimile is by taking measurements of the writing space, compared to the size of the folio, and all the lines within and without, according to the following templates:
 

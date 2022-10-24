@@ -9,7 +9,7 @@ Students will be responsible to producing many different kinds of written/creati
 
 {% tabs %}
 {% tab title="Projects" %}
-Over the course of two terms, students will work to understand and showcase the medieval material in Carleton's collection. In the Fall term, students will undertake [research](research-project/) into one of Carleton's medieval folios. In the Winter term, students will further build on this research by developing an [exhibition](exhibition.md) (online or physical) of the medieval folios, printed works and the work created over the course of the two terms. Both the research and the exhibition will be cumulative works, building on assignments done in/ for class.
+Over the course of two terms, students will work to understand and showcase the medieval material in Carleton's collection. In the Fall term, students will undertake [research](research-project.md) into one of Carleton's medieval folios. In the Winter term, students will further build on this research by developing an [exhibition](exhibition.md) (online or physical) of the medieval folios, printed works and the work created over the course of the two terms. Both the research and the exhibition will be cumulative works, building on assignments done in/ for class.
 {% endtab %}
 
 {% tab title="Annotation" %}
@@ -33,7 +33,7 @@ Posts can address the readings - contextualizing articles read or proposing  dis
 {% endtab %}
 
 {% tab title="Exercises" %}
-In class, we will begin practical [exercises](../../exercises/) that will usually be completed in class, but may at times need to be started beforehand or completed outside of class time. These exercises will usually be hands-on practical activities that will guide your [research](research-project/) into your medieval folios.&#x20;
+In class, we will begin practical [exercises](../../exercises/) that will usually be completed in class, but may at times need to be started beforehand or completed outside of class time. These exercises will usually be hands-on practical activities that will guide your [research](research-project.md) into your medieval folios.&#x20;
 
 For much of Fall term, the exercises will consist of 'experimental codicology' where we will cut parchment into folios, outline writing space, write text, illustrate the page and bind the folios together into a pamphlet.&#x20;
 {% endtab %}

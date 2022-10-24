@@ -311,6 +311,10 @@ Read and annotate Kaufman and Sturtevant, _The Devil's Historians._   Yes, read 
 
 #### October 14 -What is a Digital Book?
 
+### Part III -  Digital Facsimiles
+
+#### January 13 - Digitizing Manuscripts
+
 * How do books change in the digital age? Does the idea of "the book" matter anymore?&#x20;
 * We're skipping over a big topic in this history of books (i.e. print culture) to jump straight to the idea of a digital book. We will confront (more generall) what happens when a book becomes digital (how does the reading and production experience change), and we will start to think about how medieval manuscripts are transformed when they are "digitized".&#x20;
 
