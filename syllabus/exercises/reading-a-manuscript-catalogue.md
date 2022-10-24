@@ -1,5 +1,13 @@
 # Reading a Manuscript Catalogue
 
+While often taken for granted as a skill medievalists possess, making sense of a manuscript catalogue is not a simple act - usually requiring a knowledge of a complex technical and conceptual vocabulary (often abbreviated from Latin). This exercise seeks to teach students how to see the practical use of manuscript catalogues and how to make sense of a typical manuscript catalogue description (in English).&#x20;
+
+### Exercise:
+
+Tracking down the manuscripts of Richard of Poitiers?
+
+### Bibliography
+
 \[currently under development - in process of drafting]
 
 
